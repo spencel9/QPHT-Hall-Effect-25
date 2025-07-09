@@ -13,6 +13,7 @@ The purpose of the code found in this GitHub repository is to measure the Quantu
   - Numpy
   - PyMeasure
 - The single Python file titled: "Keithley_2450_Sourcemeter_Interface_v1.0.py"
+- OPTIONAL: Download the .json file for prefered layout
 
 
 ### Usage:
